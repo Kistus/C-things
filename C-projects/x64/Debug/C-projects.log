@@ -1,0 +1,12 @@
+﻿  BinarySearch.cpp
+  BST1.cpp
+  Double-linkedList.cpp
+  HeapQ.cpp
+  ShellSort.cpp
+  Ships.cpp
+C:\Users\kosta\Source\Repos\C-projects\C-projects\Ships.cpp(566,26): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\kosta\Source\Repos\C-projects\C-projects\Ships.cpp(656,26): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\kosta\Source\Repos\C-projects\C-projects\Ships.cpp(1580,12): error C1075: '{': no matching token found
+  TRIE.cpp
+  Generating Code...
+C:\Users\kosta\Source\Repos\C-projects\C-projects\ShellSort.cpp(68): warning C4172: returning address of local variable or temporary: counter
